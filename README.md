@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=2279F7&background=BBFF2D00&center=true&vCenter=true&width=435&lines=Hey+there!+Welcome)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=2279F7&background=BBFF2D00&center=true&vCenter=true&width=435&lines=Hey+there!+Welcome" alt="Typing SVG" />
+</div>
 
 ## 💫 About Me:
 I'm a **Software Engineer** and recent graduate from **Politecnico di Milano**, where I completed my **Master's degree** with honors in 2025. My thesis introduced a novel approach to injecting behavioral variability points into microservice applications, and was presented at **SISTEDES**, Spain's premier conference on software engineering. I've also collaborated with **ABB** on a **SCRUM-based** project designing security protocols for machine communication systems. My goal is to master **software architecture** and **design patterns** to create systems that are easy to **maintain**, **scale** and **understand** - always matching the right design to each unique challenge.
