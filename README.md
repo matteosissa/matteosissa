@@ -5,7 +5,7 @@
 ## 💫 About Me:
 I'm a **Software Engineer** with a Master's degree from  **Politecnico di Milano**. My goal is to master **software architecture** and **design patterns** to create systems that are easy to **maintain**, **scale** and **understand** - always matching the right design to each unique challenge.
 
-Learn more about me on my [personal website](https://matteosissa.github.io).
+Learn more about me on my [personal website](https://matteosissa.github.io){:target="_blank"}.
 
 
 
