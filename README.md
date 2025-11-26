@@ -22,7 +22,3 @@ Learn more about me on my [personal website](https://matteosissa.github.io).
 ![](https://github-readme-stats.vercel.app/api?username=matteosissa&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=matteosissa&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matteosissa&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=matteosissa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
